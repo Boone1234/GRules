@@ -1,0 +1,2 @@
+# GRules
+OpenClash Rules
